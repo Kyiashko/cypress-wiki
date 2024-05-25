@@ -23,7 +23,7 @@ To check baseUrl - open cypress.config.ts file in project root folder.
 
 ### Test user credentials
 For testing use my test user credentials:
- - username: d.kyiashko@gmail.com
+ - username: Dk0008
  - pass: 1114567890Kyi@shko
 
 Credentials must be set as env variables.
